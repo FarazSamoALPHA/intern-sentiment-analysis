@@ -1,0 +1,301 @@
+intern_id,name,gender,department,city,internship_month,duration_weeks,feedback_text,rating,sentiment,would_recommend,mentor_available,work_life_balance,learning_score
+INT-001,Intern_1,Female,Finance,Lahore,Jan,5,My mentor was very knowledgeable and always ready to help,4,Positive,1,Sometimes,1,5
+INT-002,Intern_2,Male,Finance,Multan,Nov,18,Very poor work culture and no respect for intern opinions,1,Negative,0,No,1,4
+INT-003,Intern_3,Male,Operations,Karachi,Nov,5,Learned a lot about industry practices and real workflows,4,Positive,1,Yes,2,4
+INT-004,Intern_4,Female,HR,Lahore,Sep,7,Very poor work culture and no respect for intern opinions,2,Negative,0,No,2,3
+INT-005,Intern_5,Male,Finance,Multan,Nov,9,"Amazing environment, I learned so much during my internship",5,Positive,1,Sometimes,3,2
+INT-006,Intern_6,Female,Design,Peshawar,Sep,10,My contributions were recognized which was very motivating,5,Positive,1,No,1,3
+INT-007,Intern_7,Female,Marketing,Faisalabad,May,13,It was an average experience with some good and bad parts,3,Neutral,0,No,4,3
+INT-008,Intern_8,Female,Design,Lahore,Oct,22,The training sessions were very informative and well structured,4,Positive,1,No,4,1
+INT-009,Intern_9,Male,Design,Faisalabad,Apr,22,I appreciate how inclusive and diverse the workplace was,4,Positive,1,Sometimes,1,5
+INT-010,Intern_10,Male,Sales,Lahore,Nov,15,The feedback sessions were very constructive and helpful,4,Positive,1,No,1,4
+INT-011,Intern_11,Male,Sales,Peshawar,Jun,6,"Poor onboarding process, felt lost for the first few weeks",2,Negative,0,No,1,2
+INT-012,Intern_12,Female,Marketing,Faisalabad,Dec,16,I was given real responsibilities which helped me grow,4,Positive,1,Yes,2,4
+INT-013,Intern_13,Male,Design,Islamabad,Jul,21,Communication gaps between teams made work very difficult,2,Negative,0,Sometimes,2,4
+INT-014,Intern_14,Male,Finance,Karachi,May,11,Learned a lot about industry practices and real workflows,5,Positive,1,No,2,5
+INT-015,Intern_15,Male,HR,Islamabad,Nov,18,"I felt ignored most of the time, no proper guidance given",1,Negative,0,Sometimes,5,4
+INT-016,Intern_16,Female,Marketing,Multan,Oct,4,Very poor work culture and no respect for intern opinions,1,Negative,0,No,4,4
+INT-017,Intern_17,Female,Operations,Peshawar,Sep,6,The tasks were challenging but very rewarding and educational,4,Positive,1,No,4,3
+INT-018,Intern_18,Male,Design,Islamabad,Mar,11,It was an average experience with some good and bad parts,3,Neutral,1,No,3,5
+INT-019,Intern_19,Male,Marketing,Lahore,Jul,7,The training sessions were very informative and well structured,5,Positive,1,Yes,2,1
+INT-020,Intern_20,Male,Engineering,Multan,Oct,19,Communication gaps between teams made work very difficult,2,Negative,0,Yes,5,2
+INT-021,Intern_21,Male,Engineering,Multan,Oct,13,The projects assigned were real world and very impactful,4,Positive,1,Yes,5,4
+INT-022,Intern_22,Female,Sales,Islamabad,Nov,15,The feedback sessions were very constructive and helpful,5,Positive,1,Sometimes,4,2
+INT-023,Intern_23,Female,HR,Islamabad,May,17,The tasks were challenging but very rewarding and educational,5,Positive,1,Sometimes,2,1
+INT-024,Intern_24,Female,Finance,Peshawar,Jul,17,I appreciate how inclusive and diverse the workplace was,5,Positive,1,Yes,3,2
+INT-025,Intern_25,Female,HR,Karachi,Feb,5,Lack of resources and tools made it hard to complete tasks,2,Negative,0,Sometimes,2,1
+INT-026,Intern_26,Male,HR,Islamabad,Apr,8,"Best internship experience, would highly recommend to others",5,Positive,1,No,1,3
+INT-027,Intern_27,Male,HR,Islamabad,Feb,8,"Average internship, met some expectations but not all",3,Neutral,0,No,2,4
+INT-028,Intern_28,Male,HR,Faisalabad,Dec,9,Overall disappointing experience with no career growth,2,Negative,0,No,1,1
+INT-029,Intern_29,Female,Operations,Lahore,Jul,16,I was given real responsibilities which helped me grow,4,Positive,1,Yes,1,2
+INT-030,Intern_30,Male,Operations,Faisalabad,Feb,12,The training sessions were very informative and well structured,5,Positive,1,Sometimes,3,4
+INT-031,Intern_31,Female,Sales,Faisalabad,Nov,18,The onboarding process was smooth and well organized,4,Positive,1,Yes,4,3
+INT-032,Intern_32,Female,Marketing,Multan,Jan,17,The onboarding process was smooth and well organized,4,Positive,1,Sometimes,2,4
+INT-033,Intern_33,Male,Engineering,Karachi,Sep,10,I felt valued and appreciated throughout my internship,5,Positive,1,No,1,1
+INT-034,Intern_34,Male,HR,Lahore,Jan,23,The projects assigned were real world and very impactful,5,Positive,1,Yes,2,3
+INT-035,Intern_35,Male,Sales,Peshawar,Aug,5,I improved my communication and technical skills greatly,4,Positive,1,Sometimes,4,2
+INT-036,Intern_36,Female,Marketing,Peshawar,Feb,10,"I felt ignored most of the time, no proper guidance given",1,Negative,0,Sometimes,4,3
+INT-037,Intern_37,Male,Engineering,Islamabad,Dec,9,"Poor onboarding process, felt lost for the first few weeks",1,Negative,0,No,5,3
+INT-038,Intern_38,Female,Design,Islamabad,Aug,20,The tasks assigned were not relevant to my field of study,1,Negative,0,Yes,4,5
+INT-039,Intern_39,Male,Finance,Peshawar,Mar,5,"Poor communication from management, always confused about tasks",1,Negative,0,Yes,3,3
+INT-040,Intern_40,Female,Operations,Islamabad,Jun,6,Learned a lot about industry practices and real workflows,5,Positive,1,Yes,1,3
+INT-041,Intern_41,Female,Design,Karachi,Mar,8,"Amazing environment, I learned so much during my internship",5,Positive,1,No,5,4
+INT-042,Intern_42,Male,Engineering,Faisalabad,Jul,8,"I felt ignored most of the time, no proper guidance given",1,Negative,0,Yes,3,2
+INT-043,Intern_43,Female,Design,Islamabad,Oct,4,My mentor was very knowledgeable and always ready to help,5,Positive,1,No,2,4
+INT-044,Intern_44,Female,Finance,Multan,Sep,11,"The experience was mixed, some mentors were good some not",3,Neutral,0,No,1,4
+INT-045,Intern_45,Male,Sales,Islamabad,Feb,15,I expected better projects but got only documentation work,1,Negative,0,No,4,1
+INT-046,Intern_46,Female,Engineering,Lahore,Dec,7,My mentor was very knowledgeable and always ready to help,4,Positive,1,Sometimes,1,4
+INT-047,Intern_47,Male,Design,Karachi,Dec,16,The onboarding process was smooth and well organized,4,Positive,1,Yes,2,5
+INT-048,Intern_48,Female,Operations,Lahore,May,18,Very good work life balance and flexible working hours,4,Positive,1,Yes,5,5
+INT-049,Intern_49,Male,Operations,Lahore,Jun,14,The tasks were challenging but very rewarding and educational,5,Positive,1,No,5,1
+INT-050,Intern_50,Male,Marketing,Multan,Apr,13,Very good work life balance and flexible working hours,4,Positive,1,No,5,2
+INT-051,Intern_51,Female,Design,Karachi,Apr,6,The workload was too heavy with no proper support provided,1,Negative,0,Yes,4,2
+INT-052,Intern_52,Female,HR,Karachi,Apr,17,I improved my communication and technical skills greatly,5,Positive,1,No,3,4
+INT-053,Intern_53,Female,Design,Karachi,Feb,19,Some aspects were good but overall it was just average,3,Neutral,0,Yes,3,4
+INT-054,Intern_54,Female,Sales,Karachi,Apr,13,The environment was okay but nothing particularly special,3,Neutral,1,Sometimes,1,4
+INT-055,Intern_55,Female,Engineering,Karachi,Nov,13,I gained hands on experience with latest technologies,5,Positive,1,No,4,2
+INT-056,Intern_56,Male,Engineering,Multan,Jan,15,The management was very understanding and always supportive,5,Positive,1,Yes,5,3
+INT-057,Intern_57,Female,Sales,Islamabad,Dec,12,The environment was okay but nothing particularly special,3,Neutral,0,No,5,5
+INT-058,Intern_58,Male,Design,Lahore,Jun,4,"I really enjoyed working here, the team was very supportive and helpful",4,Positive,1,Yes,2,3
+INT-059,Intern_59,Male,Sales,Karachi,Jan,8,The internship helped me clarify my career goals clearly,5,Positive,1,Yes,2,3
+INT-060,Intern_60,Female,Finance,Islamabad,Oct,23,"Amazing environment, I learned so much during my internship",4,Positive,1,No,5,2
+INT-061,Intern_61,Male,Sales,Islamabad,Jun,11,I felt valued and appreciated throughout my internship,5,Positive,1,Sometimes,5,3
+INT-062,Intern_62,Male,Operations,Lahore,Jan,14,I improved my communication and technical skills greatly,5,Positive,1,Yes,4,1
+INT-063,Intern_63,Male,Sales,Multan,Jun,15,My mentor was very knowledgeable and always ready to help,4,Positive,1,Yes,3,4
+INT-064,Intern_64,Male,Engineering,Peshawar,Oct,4,My contributions were recognized which was very motivating,4,Positive,1,Yes,2,1
+INT-065,Intern_65,Female,Operations,Peshawar,Aug,23,The feedback sessions were very constructive and helpful,5,Positive,1,Sometimes,3,5
+INT-066,Intern_66,Male,Engineering,Islamabad,Nov,14,The company was fine but the projects lacked excitement,3,Neutral,1,Sometimes,4,4
+INT-067,Intern_67,Female,Marketing,Faisalabad,Feb,8,"No recognition for hard work, felt very demotivated",1,Negative,0,No,5,3
+INT-068,Intern_68,Female,HR,Faisalabad,Feb,18,The feedback sessions were very constructive and helpful,4,Positive,1,Sometimes,3,5
+INT-069,Intern_69,Male,Engineering,Lahore,Dec,8,"Poor communication from management, always confused about tasks",2,Negative,0,No,5,4
+INT-070,Intern_70,Female,Operations,Peshawar,Apr,15,"Excellent mentorship program, I grew professionally a lot",5,Positive,1,No,5,3
+INT-071,Intern_71,Female,Marketing,Islamabad,Nov,8,The work was decent but I expected more challenging tasks,3,Neutral,1,Sometimes,1,1
+INT-072,Intern_72,Female,Engineering,Multan,Mar,20,Very poor work culture and no respect for intern opinions,2,Negative,0,No,3,4
+INT-073,Intern_73,Male,Finance,Peshawar,Apr,20,I loved the collaborative culture and friendly team members,5,Positive,1,Sometimes,3,3
+INT-074,Intern_74,Female,Sales,Islamabad,Dec,15,No proper training was provided before assigning tasks,1,Negative,0,No,5,1
+INT-075,Intern_75,Female,HR,Islamabad,Jul,18,The feedback sessions were very constructive and helpful,4,Positive,1,Sometimes,4,5
+INT-076,Intern_76,Female,Engineering,Karachi,Nov,18,"The experience was mixed, some mentors were good some not",3,Neutral,0,Sometimes,1,5
+INT-077,Intern_77,Male,Marketing,Multan,Jan,9,Mentor was rarely available and did not provide feedback,2,Negative,0,No,5,5
+INT-078,Intern_78,Female,Finance,Karachi,Jun,15,The internship was not what was described in the offer letter,2,Negative,0,Yes,2,5
+INT-079,Intern_79,Male,Design,Lahore,Mar,23,It was a learning experience but could have been better,3,Neutral,0,No,2,2
+INT-080,Intern_80,Male,Marketing,Karachi,Nov,21,"I felt ignored most of the time, no proper guidance given",2,Negative,0,Sometimes,1,4
+INT-081,Intern_81,Male,Sales,Karachi,Oct,17,The tasks were challenging but very rewarding and educational,4,Positive,1,Yes,4,4
+INT-082,Intern_82,Male,Marketing,Peshawar,Jul,5,The working hours were too long with no overtime compensation,2,Negative,0,No,5,2
+INT-083,Intern_83,Male,Finance,Faisalabad,Oct,12,I would not recommend this internship to anyone honestly,1,Negative,0,No,3,3
+INT-084,Intern_84,Male,Marketing,Islamabad,Feb,8,The tasks assigned were not relevant to my field of study,2,Negative,0,No,1,3
+INT-085,Intern_85,Female,Finance,Multan,Feb,23,The environment was okay but nothing particularly special,3,Neutral,0,Yes,4,5
+INT-086,Intern_86,Male,Engineering,Karachi,Apr,4,Learned a lot about industry practices and real workflows,4,Positive,1,Sometimes,3,1
+INT-087,Intern_87,Female,Finance,Multan,Jan,6,The work was decent but I expected more challenging tasks,3,Neutral,1,No,2,3
+INT-088,Intern_88,Female,Finance,Faisalabad,Mar,9,I was given real responsibilities which helped me grow,5,Positive,1,No,2,1
+INT-089,Intern_89,Male,HR,Faisalabad,Sep,8,Some days were good and some were not so productive,3,Neutral,0,No,3,4
+INT-090,Intern_90,Female,Finance,Karachi,Jul,8,"Poor communication from management, always confused about tasks",1,Negative,0,No,1,1
+INT-091,Intern_91,Female,Finance,Lahore,Jul,4,I gained hands on experience with latest technologies,4,Positive,1,No,2,4
+INT-092,Intern_92,Female,Design,Karachi,Nov,20,The company was fine but the projects lacked excitement,3,Neutral,1,Sometimes,5,2
+INT-093,Intern_93,Female,Engineering,Peshawar,Apr,22,"Amazing environment, I learned so much during my internship",4,Positive,1,Sometimes,3,2
+INT-094,Intern_94,Male,Sales,Islamabad,Feb,17,"I felt ignored most of the time, no proper guidance given",2,Negative,0,No,3,5
+INT-095,Intern_95,Female,HR,Lahore,Apr,15,"Average internship, met some expectations but not all",3,Neutral,1,Yes,2,3
+INT-096,Intern_96,Male,Design,Karachi,Jun,13,Some days were good and some were not so productive,3,Neutral,0,Sometimes,1,5
+INT-097,Intern_97,Female,Operations,Multan,Nov,23,The projects assigned were real world and very impactful,5,Positive,1,Yes,5,4
+INT-098,Intern_98,Female,Engineering,Lahore,Nov,21,Some days were good and some were not so productive,3,Neutral,0,Sometimes,1,5
+INT-099,Intern_99,Male,Engineering,Lahore,Mar,14,The internship was not what was described in the offer letter,2,Negative,0,No,4,1
+INT-100,Intern_100,Female,Operations,Karachi,Jan,5,The environment was okay but nothing particularly special,3,Neutral,0,Sometimes,4,4
+INT-101,Intern_101,Female,Sales,Lahore,Dec,21,Great company culture with lots of learning opportunities,5,Positive,1,No,2,2
+INT-102,Intern_102,Female,Finance,Multan,Aug,10,"I felt ignored most of the time, no proper guidance given",2,Negative,0,Sometimes,2,3
+INT-103,Intern_103,Male,Design,Faisalabad,Dec,18,Some days were good and some were not so productive,3,Neutral,0,No,2,4
+INT-104,Intern_104,Female,Marketing,Lahore,May,14,The work was very repetitive and I did not learn much,2,Negative,0,No,4,4
+INT-105,Intern_105,Male,HR,Faisalabad,May,21,"Outstanding experience overall, very professional environment",5,Positive,1,No,1,1
+INT-106,Intern_106,Female,Marketing,Multan,Nov,15,The tasks assigned were not relevant to my field of study,1,Negative,0,No,1,3
+INT-107,Intern_107,Male,Operations,Karachi,Apr,9,The work was very repetitive and I did not learn much,2,Negative,0,Yes,2,2
+INT-108,Intern_108,Male,Engineering,Islamabad,Jun,23,I improved my communication and technical skills greatly,5,Positive,1,No,5,4
+INT-109,Intern_109,Female,Sales,Lahore,Mar,16,Great company culture with lots of learning opportunities,5,Positive,1,Yes,1,4
+INT-110,Intern_110,Female,Engineering,Islamabad,Sep,23,The work was decent but I expected more challenging tasks,3,Neutral,0,Yes,4,1
+INT-111,Intern_111,Male,HR,Multan,May,19,It was an average experience with some good and bad parts,3,Neutral,0,No,3,5
+INT-112,Intern_112,Male,Engineering,Lahore,Mar,21,"I really enjoyed working here, the team was very supportive and helpful",5,Positive,1,Yes,3,2
+INT-113,Intern_113,Female,Engineering,Faisalabad,Nov,13,The work was very repetitive and I did not learn much,1,Negative,0,Sometimes,3,3
+INT-114,Intern_114,Male,HR,Peshawar,Jan,11,I was given real responsibilities which helped me grow,4,Positive,1,No,5,4
+INT-115,Intern_115,Female,Design,Islamabad,Oct,21,"No recognition for hard work, felt very demotivated",2,Negative,0,Yes,2,4
+INT-116,Intern_116,Female,Design,Lahore,Dec,4,Great company culture with lots of learning opportunities,4,Positive,1,No,4,2
+INT-117,Intern_117,Female,HR,Islamabad,Jun,11,The environment was okay but nothing particularly special,3,Neutral,1,No,5,5
+INT-118,Intern_118,Female,Sales,Lahore,Feb,9,"The internship was okay, nothing extraordinary to mention",3,Neutral,1,No,4,4
+INT-119,Intern_119,Male,Operations,Karachi,Mar,8,"I felt ignored most of the time, no proper guidance given",2,Negative,0,Yes,4,2
+INT-120,Intern_120,Female,Engineering,Faisalabad,Jan,18,"The experience was mixed, some mentors were good some not",3,Neutral,1,Sometimes,2,1
+INT-121,Intern_121,Male,Sales,Islamabad,Sep,18,"I really enjoyed working here, the team was very supportive and helpful",5,Positive,1,Sometimes,3,5
+INT-122,Intern_122,Female,Engineering,Peshawar,Aug,5,Lack of resources and tools made it hard to complete tasks,1,Negative,0,Yes,2,3
+INT-123,Intern_123,Male,Operations,Peshawar,Dec,4,I appreciate how inclusive and diverse the workplace was,5,Positive,1,No,5,4
+INT-124,Intern_124,Female,Design,Multan,Feb,14,"Average internship, met some expectations but not all",3,Neutral,0,Yes,5,2
+INT-125,Intern_125,Male,Sales,Lahore,Dec,13,My mentor was very knowledgeable and always ready to help,5,Positive,1,Yes,5,1
+INT-126,Intern_126,Male,Finance,Islamabad,Nov,21,"Best internship experience, would highly recommend to others",5,Positive,1,Yes,2,3
+INT-127,Intern_127,Female,Finance,Multan,Aug,21,The projects assigned were real world and very impactful,4,Positive,1,No,4,2
+INT-128,Intern_128,Female,Finance,Islamabad,Dec,20,I appreciate how inclusive and diverse the workplace was,5,Positive,1,Yes,4,2
+INT-129,Intern_129,Female,Design,Lahore,Sep,11,"Poor onboarding process, felt lost for the first few weeks",1,Negative,0,No,1,3
+INT-130,Intern_130,Female,Design,Peshawar,Jan,18,Friendly colleagues made the work environment very enjoyable,4,Positive,1,Yes,5,1
+INT-131,Intern_131,Male,Operations,Karachi,May,11,The tasks assigned were not relevant to my field of study,1,Negative,0,Sometimes,4,1
+INT-132,Intern_132,Female,Engineering,Peshawar,Aug,20,I would not recommend this internship to anyone honestly,1,Negative,0,Yes,1,5
+INT-133,Intern_133,Male,Operations,Multan,Nov,15,Great company culture with lots of learning opportunities,5,Positive,1,Yes,4,4
+INT-134,Intern_134,Male,Operations,Faisalabad,Feb,11,I improved my communication and technical skills greatly,4,Positive,1,Sometimes,5,3
+INT-135,Intern_135,Female,Design,Karachi,Apr,17,"Great learning experience, mentors were always available to guide us",5,Positive,1,No,3,3
+INT-136,Intern_136,Male,Finance,Multan,Jul,7,I appreciate how inclusive and diverse the workplace was,4,Positive,1,No,5,3
+INT-137,Intern_137,Male,Marketing,Lahore,Mar,4,The projects had no real impact and felt like busy work,2,Negative,0,Yes,2,1
+INT-138,Intern_138,Male,Engineering,Karachi,Dec,4,"The internship was okay, nothing extraordinary to mention",3,Neutral,1,Sometimes,4,4
+INT-139,Intern_139,Male,Design,Multan,May,22,I loved the collaborative culture and friendly team members,4,Positive,1,No,4,5
+INT-140,Intern_140,Female,Finance,Lahore,Aug,19,"Excellent mentorship program, I grew professionally a lot",4,Positive,1,Yes,2,2
+INT-141,Intern_141,Female,Sales,Peshawar,Dec,17,"The experience was mixed, some mentors were good some not",3,Neutral,1,Sometimes,2,2
+INT-142,Intern_142,Female,Marketing,Faisalabad,Oct,19,Mentor was rarely available and did not provide feedback,1,Negative,0,No,3,3
+INT-143,Intern_143,Female,Marketing,Lahore,Mar,8,My mentor was very knowledgeable and always ready to help,4,Positive,1,No,4,4
+INT-144,Intern_144,Male,Design,Islamabad,Apr,12,I would not recommend this internship to anyone honestly,2,Negative,0,Sometimes,4,1
+INT-145,Intern_145,Male,HR,Lahore,Sep,5,Some aspects were good but overall it was just average,3,Neutral,1,Sometimes,3,4
+INT-146,Intern_146,Female,Engineering,Lahore,Jul,21,The feedback sessions were very constructive and helpful,5,Positive,1,Sometimes,1,4
+INT-147,Intern_147,Female,Marketing,Faisalabad,Jan,9,Learned a lot about industry practices and real workflows,5,Positive,1,Sometimes,3,1
+INT-148,Intern_148,Female,Design,Islamabad,Dec,12,The training sessions were very informative and well structured,5,Positive,1,Yes,5,3
+INT-149,Intern_149,Male,Design,Multan,Apr,4,The environment was okay but nothing particularly special,3,Neutral,1,Sometimes,4,4
+INT-150,Intern_150,Female,Finance,Multan,Apr,12,The work was very repetitive and I did not learn much,2,Negative,0,No,2,2
+INT-151,Intern_151,Female,Sales,Lahore,Sep,19,It was an average experience with some good and bad parts,3,Neutral,1,No,5,1
+INT-152,Intern_152,Female,HR,Islamabad,Jun,16,I appreciate how inclusive and diverse the workplace was,5,Positive,1,Yes,4,5
+INT-153,Intern_153,Male,Engineering,Islamabad,Sep,12,The onboarding process was smooth and well organized,4,Positive,1,No,3,3
+INT-154,Intern_154,Male,Operations,Faisalabad,Dec,16,The tasks assigned were not relevant to my field of study,2,Negative,0,No,5,1
+INT-155,Intern_155,Male,Sales,Peshawar,Jun,12,The projects had no real impact and felt like busy work,1,Negative,0,Sometimes,4,5
+INT-156,Intern_156,Male,Sales,Multan,Jun,14,I gained hands on experience with latest technologies,5,Positive,1,No,1,5
+INT-157,Intern_157,Male,Finance,Faisalabad,May,7,"Excellent mentorship program, I grew professionally a lot",5,Positive,1,Yes,1,4
+INT-158,Intern_158,Male,Marketing,Karachi,May,5,Great company culture with lots of learning opportunities,5,Positive,1,Sometimes,2,4
+INT-159,Intern_159,Male,Marketing,Multan,Feb,9,The feedback sessions were very constructive and helpful,5,Positive,1,Sometimes,4,4
+INT-160,Intern_160,Male,Finance,Faisalabad,Aug,17,Some days were good and some were not so productive,3,Neutral,0,Yes,1,1
+INT-161,Intern_161,Female,Design,Multan,Aug,7,I was given real responsibilities which helped me grow,5,Positive,1,Sometimes,3,1
+INT-162,Intern_162,Female,Marketing,Peshawar,Nov,9,Very poor work culture and no respect for intern opinions,1,Negative,0,Sometimes,4,3
+INT-163,Intern_163,Male,HR,Karachi,Jan,22,"Excellent mentorship program, I grew professionally a lot",4,Positive,1,Yes,3,4
+INT-164,Intern_164,Male,Engineering,Peshawar,Aug,9,I appreciate how inclusive and diverse the workplace was,4,Positive,1,Sometimes,3,5
+INT-165,Intern_165,Female,Sales,Karachi,May,5,Some days were good and some were not so productive,3,Neutral,0,Yes,1,2
+INT-166,Intern_166,Male,Sales,Lahore,Feb,21,I improved my communication and technical skills greatly,5,Positive,1,Yes,4,3
+INT-167,Intern_167,Male,HR,Faisalabad,Feb,16,Management was rude and dismissive towards intern concerns,1,Negative,0,No,5,1
+INT-168,Intern_168,Male,Marketing,Karachi,Jun,12,The internship was not what was described in the offer letter,2,Negative,0,No,1,3
+INT-169,Intern_169,Female,Sales,Peshawar,Nov,22,It was an average experience with some good and bad parts,3,Neutral,1,Sometimes,1,3
+INT-170,Intern_170,Female,Operations,Multan,Sep,16,"Outstanding experience overall, very professional environment",5,Positive,1,Sometimes,4,3
+INT-171,Intern_171,Female,Engineering,Karachi,Jan,14,"I felt ignored most of the time, no proper guidance given",2,Negative,0,Yes,4,3
+INT-172,Intern_172,Female,Engineering,Faisalabad,Dec,4,I improved my communication and technical skills greatly,4,Positive,1,Sometimes,3,2
+INT-173,Intern_173,Female,Sales,Karachi,Jun,10,The work was decent but I expected more challenging tasks,3,Neutral,1,Yes,4,4
+INT-174,Intern_174,Male,Finance,Islamabad,Sep,18,"Average internship, met some expectations but not all",3,Neutral,1,Yes,3,5
+INT-175,Intern_175,Female,Sales,Multan,Aug,4,It was an average experience with some good and bad parts,3,Neutral,0,Sometimes,1,3
+INT-176,Intern_176,Male,Finance,Faisalabad,Nov,15,Friendly colleagues made the work environment very enjoyable,4,Positive,1,Yes,2,3
+INT-177,Intern_177,Male,Sales,Faisalabad,Jun,10,The projects assigned were real world and very impactful,4,Positive,1,No,5,3
+INT-178,Intern_178,Female,Operations,Lahore,Mar,18,Some aspects were good but overall it was just average,3,Neutral,0,Sometimes,1,4
+INT-179,Intern_179,Female,Design,Peshawar,Aug,22,I improved my communication and technical skills greatly,4,Positive,1,No,4,1
+INT-180,Intern_180,Male,Engineering,Lahore,Sep,4,Very poor work culture and no respect for intern opinions,2,Negative,0,Sometimes,5,1
+INT-181,Intern_181,Male,Sales,Faisalabad,Jan,20,Management was rude and dismissive towards intern concerns,2,Negative,0,Yes,2,2
+INT-182,Intern_182,Male,Operations,Multan,Dec,20,The internship helped me clarify my career goals clearly,5,Positive,1,Sometimes,2,1
+INT-183,Intern_183,Female,Finance,Karachi,Sep,6,I felt valued and appreciated throughout my internship,5,Positive,1,No,3,3
+INT-184,Intern_184,Female,Finance,Karachi,Jun,15,"The internship was okay, nothing extraordinary to mention",3,Neutral,1,Yes,5,3
+INT-185,Intern_185,Female,Engineering,Multan,Jun,9,The workload was too heavy with no proper support provided,2,Negative,0,Sometimes,3,3
+INT-186,Intern_186,Female,HR,Faisalabad,Dec,14,My contributions were recognized which was very motivating,4,Positive,1,Sometimes,1,2
+INT-187,Intern_187,Female,Sales,Karachi,Apr,6,"The experience was mixed, some mentors were good some not",3,Neutral,0,Sometimes,5,3
+INT-188,Intern_188,Male,Marketing,Karachi,Jan,11,Learned a lot about industry practices and real workflows,4,Positive,1,No,1,1
+INT-189,Intern_189,Female,Finance,Karachi,Oct,17,"I felt ignored most of the time, no proper guidance given",1,Negative,0,No,3,4
+INT-190,Intern_190,Male,Design,Peshawar,Aug,17,The feedback sessions were very constructive and helpful,5,Positive,1,Sometimes,5,4
+INT-191,Intern_191,Male,Design,Peshawar,Feb,13,Overall disappointing experience with no career growth,2,Negative,0,Yes,3,5
+INT-192,Intern_192,Male,Finance,Islamabad,Dec,5,I improved my communication and technical skills greatly,4,Positive,1,Yes,5,1
+INT-193,Intern_193,Female,HR,Lahore,Jan,17,I felt valued and appreciated throughout my internship,4,Positive,1,No,3,3
+INT-194,Intern_194,Female,HR,Multan,Feb,12,Very good work life balance and flexible working hours,5,Positive,1,Yes,2,4
+INT-195,Intern_195,Female,Operations,Multan,Jan,6,Some days were good and some were not so productive,3,Neutral,0,No,3,1
+INT-196,Intern_196,Male,Design,Multan,Jan,11,Communication gaps between teams made work very difficult,2,Negative,0,Sometimes,2,4
+INT-197,Intern_197,Male,Operations,Islamabad,Sep,19,"Amazing environment, I learned so much during my internship",5,Positive,1,No,3,3
+INT-198,Intern_198,Male,Design,Peshawar,Jan,5,The training sessions were very informative and well structured,5,Positive,1,No,5,4
+INT-199,Intern_199,Male,Sales,Faisalabad,Apr,9,The environment was okay but nothing particularly special,3,Neutral,1,Sometimes,5,5
+INT-200,Intern_200,Male,Sales,Faisalabad,Oct,15,The training sessions were very informative and well structured,5,Positive,1,Yes,5,5
+INT-201,Intern_201,Male,Marketing,Islamabad,Jun,8,Some aspects were good but overall it was just average,3,Neutral,0,No,4,4
+INT-202,Intern_202,Female,Sales,Faisalabad,Jul,5,Learned a lot about industry practices and real workflows,4,Positive,1,No,1,1
+INT-203,Intern_203,Female,Marketing,Multan,Feb,19,Friendly colleagues made the work environment very enjoyable,4,Positive,1,Sometimes,5,1
+INT-204,Intern_204,Female,Sales,Lahore,Jun,8,"Best internship experience, would highly recommend to others",5,Positive,1,Yes,2,1
+INT-205,Intern_205,Female,Engineering,Karachi,Jul,18,Mentor was rarely available and did not provide feedback,1,Negative,0,No,5,4
+INT-206,Intern_206,Male,Sales,Peshawar,Oct,15,The projects assigned were real world and very impactful,5,Positive,1,Sometimes,4,1
+INT-207,Intern_207,Male,Operations,Peshawar,Oct,7,"Great learning experience, mentors were always available to guide us",4,Positive,1,No,2,3
+INT-208,Intern_208,Female,Finance,Islamabad,Feb,18,Mentor was rarely available and did not provide feedback,1,Negative,0,Sometimes,4,5
+INT-209,Intern_209,Male,Operations,Peshawar,Feb,14,Very unprofessional behavior from some senior employees,1,Negative,0,Yes,2,3
+INT-210,Intern_210,Female,Finance,Multan,Oct,19,"The internship was okay, nothing extraordinary to mention",3,Neutral,0,Yes,3,1
+INT-211,Intern_211,Female,HR,Faisalabad,Jul,9,The environment was okay but nothing particularly special,3,Neutral,1,Yes,1,3
+INT-212,Intern_212,Female,Operations,Multan,Dec,17,The workload was too heavy with no proper support provided,2,Negative,0,Yes,1,1
+INT-213,Intern_213,Male,HR,Islamabad,Jan,21,The working hours were too long with no overtime compensation,1,Negative,0,No,4,4
+INT-214,Intern_214,Female,Marketing,Multan,Aug,15,Very good work life balance and flexible working hours,4,Positive,1,No,1,3
+INT-215,Intern_215,Female,Marketing,Faisalabad,Nov,14,I improved my communication and technical skills greatly,4,Positive,1,Yes,4,4
+INT-216,Intern_216,Female,Engineering,Lahore,Mar,16,The onboarding process was smooth and well organized,4,Positive,1,Yes,4,4
+INT-217,Intern_217,Male,Sales,Islamabad,Nov,14,"Outstanding experience overall, very professional environment",5,Positive,1,Yes,4,2
+INT-218,Intern_218,Male,Operations,Lahore,Jun,19,The work environment was very stressful and unwelcoming,1,Negative,0,No,1,1
+INT-219,Intern_219,Female,HR,Karachi,Sep,18,Very unprofessional behavior from some senior employees,2,Negative,0,Yes,4,5
+INT-220,Intern_220,Male,Finance,Lahore,Jun,18,"The internship was okay, nothing extraordinary to mention",3,Neutral,0,Yes,1,1
+INT-221,Intern_221,Male,Marketing,Karachi,Sep,7,"I really enjoyed working here, the team was very supportive and helpful",5,Positive,1,Yes,4,5
+INT-222,Intern_222,Male,Sales,Karachi,Jul,14,I gained hands on experience with latest technologies,4,Positive,1,Sometimes,5,1
+INT-223,Intern_223,Male,Marketing,Lahore,Sep,22,"The experience was mixed, some mentors were good some not",3,Neutral,0,Yes,4,4
+INT-224,Intern_224,Male,Finance,Islamabad,Feb,18,The training sessions were very informative and well structured,4,Positive,1,Sometimes,2,3
+INT-225,Intern_225,Male,Sales,Faisalabad,Dec,7,Some days were good and some were not so productive,3,Neutral,1,Sometimes,4,3
+INT-226,Intern_226,Male,Sales,Multan,Aug,16,I would not recommend this internship to anyone honestly,1,Negative,0,Yes,3,2
+INT-227,Intern_227,Male,HR,Multan,Aug,22,The work environment was very stressful and unwelcoming,1,Negative,0,Sometimes,4,5
+INT-228,Intern_228,Male,HR,Faisalabad,Feb,5,The work was very repetitive and I did not learn much,1,Negative,0,Yes,2,5
+INT-229,Intern_229,Male,Operations,Karachi,Dec,17,"I felt ignored most of the time, no proper guidance given",2,Negative,0,No,2,5
+INT-230,Intern_230,Female,Operations,Karachi,Apr,7,"No learning opportunities, just doing clerical work all day",2,Negative,0,No,1,4
+INT-231,Intern_231,Female,Design,Islamabad,Nov,19,"Average internship, met some expectations but not all",3,Neutral,0,No,5,5
+INT-232,Intern_232,Male,Design,Peshawar,Jul,23,My contributions were recognized which was very motivating,5,Positive,1,No,4,3
+INT-233,Intern_233,Female,Engineering,Lahore,Nov,17,The tasks were challenging but very rewarding and educational,5,Positive,1,Sometimes,1,4
+INT-234,Intern_234,Female,Marketing,Karachi,Apr,18,Friendly colleagues made the work environment very enjoyable,5,Positive,1,Yes,5,1
+INT-235,Intern_235,Male,Operations,Multan,Apr,6,I felt valued and appreciated throughout my internship,5,Positive,1,Yes,4,5
+INT-236,Intern_236,Male,HR,Islamabad,Jun,11,It was a learning experience but could have been better,3,Neutral,0,Yes,3,5
+INT-237,Intern_237,Male,Finance,Lahore,Oct,19,I felt valued and appreciated throughout my internship,4,Positive,1,No,4,1
+INT-238,Intern_238,Female,HR,Islamabad,Jun,13,The onboarding process was smooth and well organized,5,Positive,1,No,2,5
+INT-239,Intern_239,Female,Marketing,Lahore,Oct,7,The onboarding process was smooth and well organized,5,Positive,1,Yes,2,1
+INT-240,Intern_240,Male,Design,Lahore,Mar,21,I loved the collaborative culture and friendly team members,5,Positive,1,No,3,4
+INT-241,Intern_241,Male,HR,Faisalabad,Sep,5,"Excellent mentorship program, I grew professionally a lot",4,Positive,1,Yes,1,3
+INT-242,Intern_242,Male,Engineering,Karachi,Dec,20,Some aspects were good but overall it was just average,3,Neutral,1,Yes,5,1
+INT-243,Intern_243,Female,Marketing,Islamabad,Oct,16,It was an average experience with some good and bad parts,3,Neutral,1,Yes,4,2
+INT-244,Intern_244,Female,Design,Islamabad,Nov,7,Very disorganized internship program with no clear structure,1,Negative,0,Yes,2,1
+INT-245,Intern_245,Female,Finance,Faisalabad,Feb,14,I appreciate how inclusive and diverse the workplace was,4,Positive,1,Yes,1,5
+INT-246,Intern_246,Female,Design,Multan,Jun,10,Communication gaps between teams made work very difficult,1,Negative,0,Yes,3,4
+INT-247,Intern_247,Male,Sales,Multan,Dec,15,The internship helped me clarify my career goals clearly,5,Positive,1,Yes,2,4
+INT-248,Intern_248,Male,Engineering,Karachi,Jul,13,"The internship was okay, nothing extraordinary to mention",3,Neutral,1,No,3,1
+INT-249,Intern_249,Male,Marketing,Karachi,Dec,10,It was an average experience with some good and bad parts,3,Neutral,0,Yes,4,3
+INT-250,Intern_250,Male,Finance,Peshawar,Sep,16,"I really enjoyed working here, the team was very supportive and helpful",4,Positive,1,Yes,5,2
+INT-251,Intern_251,Female,Engineering,Faisalabad,Mar,10,I loved the collaborative culture and friendly team members,5,Positive,1,No,2,4
+INT-252,Intern_252,Female,Design,Multan,Oct,20,"The experience was mixed, some mentors were good some not",3,Neutral,1,No,2,5
+INT-253,Intern_253,Male,Engineering,Lahore,Mar,13,"The experience was mixed, some mentors were good some not",3,Neutral,0,No,4,5
+INT-254,Intern_254,Male,Marketing,Islamabad,Jul,13,Very poor work culture and no respect for intern opinions,1,Negative,0,Yes,1,3
+INT-255,Intern_255,Female,Operations,Karachi,Apr,7,The working hours were too long with no overtime compensation,1,Negative,0,Sometimes,5,4
+INT-256,Intern_256,Male,Engineering,Islamabad,Aug,23,I felt valued and appreciated throughout my internship,5,Positive,1,Sometimes,2,1
+INT-257,Intern_257,Female,Sales,Islamabad,Jul,7,The onboarding process was smooth and well organized,4,Positive,1,No,5,5
+INT-258,Intern_258,Male,Engineering,Peshawar,May,10,"I really enjoyed working here, the team was very supportive and helpful",4,Positive,1,Sometimes,2,3
+INT-259,Intern_259,Male,Design,Multan,Jul,4,"Poor communication from management, always confused about tasks",2,Negative,0,No,5,4
+INT-260,Intern_260,Male,Design,Karachi,Mar,15,Very good work life balance and flexible working hours,5,Positive,1,Yes,3,4
+INT-261,Intern_261,Male,Finance,Islamabad,Dec,16,The projects had no real impact and felt like busy work,2,Negative,0,Sometimes,2,4
+INT-262,Intern_262,Male,Design,Karachi,Feb,13,It was an average experience with some good and bad parts,3,Neutral,1,Yes,5,4
+INT-263,Intern_263,Male,HR,Lahore,Jun,18,It was a learning experience but could have been better,3,Neutral,0,Sometimes,1,4
+INT-264,Intern_264,Male,Marketing,Peshawar,Feb,16,The environment was okay but nothing particularly special,3,Neutral,1,Yes,3,5
+INT-265,Intern_265,Female,Marketing,Lahore,Mar,12,Communication gaps between teams made work very difficult,1,Negative,0,Sometimes,3,3
+INT-266,Intern_266,Female,Operations,Karachi,Jun,12,Very poor work culture and no respect for intern opinions,2,Negative,0,Yes,1,4
+INT-267,Intern_267,Female,Operations,Karachi,May,18,The working hours were too long with no overtime compensation,1,Negative,0,Yes,5,2
+INT-268,Intern_268,Female,Marketing,Multan,Aug,13,"Great learning experience, mentors were always available to guide us",5,Positive,1,Sometimes,4,2
+INT-269,Intern_269,Female,Sales,Islamabad,Sep,13,Lack of resources and tools made it hard to complete tasks,2,Negative,0,Yes,1,3
+INT-270,Intern_270,Male,Operations,Islamabad,Nov,11,The working hours were too long with no overtime compensation,1,Negative,0,Yes,5,1
+INT-271,Intern_271,Male,Finance,Lahore,Mar,19,Overall disappointing experience with no career growth,2,Negative,0,Yes,1,1
+INT-272,Intern_272,Female,Design,Peshawar,Dec,20,Communication gaps between teams made work very difficult,2,Negative,0,Sometimes,1,1
+INT-273,Intern_273,Male,Marketing,Faisalabad,Oct,8,"Best internship experience, would highly recommend to others",4,Positive,1,Sometimes,2,2
+INT-274,Intern_274,Female,Operations,Islamabad,Mar,7,The workload was too heavy with no proper support provided,2,Negative,0,Yes,5,1
+INT-275,Intern_275,Female,Marketing,Multan,Mar,21,Some aspects were good but overall it was just average,3,Neutral,1,Yes,4,5
+INT-276,Intern_276,Male,HR,Lahore,Jun,22,I would not recommend this internship to anyone honestly,2,Negative,0,Sometimes,2,4
+INT-277,Intern_277,Male,Engineering,Lahore,Jan,7,I loved the collaborative culture and friendly team members,4,Positive,1,Sometimes,1,2
+INT-278,Intern_278,Male,Design,Faisalabad,Jul,10,The management was very understanding and always supportive,4,Positive,1,Yes,1,3
+INT-279,Intern_279,Female,Marketing,Multan,Dec,13,I improved my communication and technical skills greatly,4,Positive,1,Yes,1,3
+INT-280,Intern_280,Male,Engineering,Peshawar,Jan,21,Learned a lot about industry practices and real workflows,5,Positive,1,Yes,5,4
+INT-281,Intern_281,Female,Operations,Multan,May,22,I appreciate how inclusive and diverse the workplace was,5,Positive,1,No,5,2
+INT-282,Intern_282,Female,Engineering,Peshawar,Oct,7,I did not receive any feedback on my work performance,2,Negative,0,Sometimes,2,1
+INT-283,Intern_283,Female,Design,Multan,Aug,13,"Amazing environment, I learned so much during my internship",5,Positive,1,No,4,1
+INT-284,Intern_284,Male,Marketing,Multan,Apr,4,Lack of resources and tools made it hard to complete tasks,1,Negative,0,Sometimes,2,5
+INT-285,Intern_285,Male,HR,Karachi,May,21,I improved my communication and technical skills greatly,4,Positive,1,Sometimes,3,5
+INT-286,Intern_286,Female,Sales,Lahore,Apr,8,"Best internship experience, would highly recommend to others",4,Positive,1,Sometimes,1,1
+INT-287,Intern_287,Male,Operations,Multan,Dec,18,I loved the collaborative culture and friendly team members,4,Positive,1,Sometimes,1,3
+INT-288,Intern_288,Male,Marketing,Faisalabad,Dec,20,The management did not care about intern development at all,2,Negative,0,Sometimes,1,3
+INT-289,Intern_289,Male,Design,Multan,Apr,6,"The internship was okay, nothing extraordinary to mention",3,Neutral,1,Sometimes,2,5
+INT-290,Intern_290,Female,Operations,Islamabad,Dec,15,Very unprofessional behavior from some senior employees,1,Negative,0,Sometimes,2,4
+INT-291,Intern_291,Female,Finance,Lahore,Aug,5,The internship helped me clarify my career goals clearly,4,Positive,1,No,1,1
+INT-292,Intern_292,Male,Engineering,Islamabad,Feb,4,Communication gaps between teams made work very difficult,2,Negative,0,Yes,2,5
+INT-293,Intern_293,Female,Sales,Lahore,Jan,20,"The internship was okay, nothing extraordinary to mention",3,Neutral,1,Yes,5,5
+INT-294,Intern_294,Male,Design,Islamabad,Mar,19,"I really enjoyed working here, the team was very supportive and helpful",5,Positive,1,No,5,1
+INT-295,Intern_295,Male,Finance,Multan,Sep,8,I would not recommend this internship to anyone honestly,1,Negative,0,No,2,1
+INT-296,Intern_296,Male,Marketing,Multan,Apr,18,Management was rude and dismissive towards intern concerns,2,Negative,0,No,1,3
+INT-297,Intern_297,Male,HR,Karachi,Oct,6,Learned a lot about industry practices and real workflows,5,Positive,1,No,2,4
+INT-298,Intern_298,Female,Operations,Faisalabad,May,10,Very unprofessional behavior from some senior employees,2,Negative,0,Sometimes,2,4
+INT-299,Intern_299,Female,Engineering,Islamabad,Feb,14,My contributions were recognized which was very motivating,4,Positive,1,Yes,2,1
+INT-300,Intern_300,Female,Operations,Peshawar,Apr,13,Communication gaps between teams made work very difficult,1,Negative,0,Sometimes,3,2
